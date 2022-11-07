@@ -1,0 +1,264 @@
+{
+  "status": "success",
+  "metadata": {
+    "total": 656,
+    "page": 1
+  },
+  "data": [
+    {
+      "_id": "635c5780e0594c00160a0416",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "It started 😅",
+      "category": {
+        "name": "Computing"
+      },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-10-28T22:28:16.231Z",
+      "imageUrl": "https://memefon.s3.amazonaws.com/uploads/2022-10-28T07-22-50139Z-FB969C3D-5E84-4C9E-8760-3250B1C2A351.jpeg",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    },
+    {
+      "_id": "635a68c1cc97bb0016dd5d02",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "Não precisa nem de DNA",
+      "category": {
+        "name": "Funny"
+      },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-10-27T11:17:21.387Z",
+      "videoUrl": "https://memefon.s3.amazonaws.com/uploads/2022-10-27T06-48-24770Z-trim.mp4",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    },
+    {
+      "_id": "635984de3886be00162c31b0",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "Marketing hecho cierto",
+      "category": {
+        "name": "Lovely"
+      },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-10-26T19:05:02.362Z",
+      "imageUrl": "https://memefon.s3.amazonaws.com/uploads/2022-10-26T06-37-14808Z-8C1D4529-09F0-42A5-8475-8089EFB31F01.jpeg",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    },
+    {
+      "_id": "635686e60b86770016805e9d",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "Mano que risada é essa ?",
+      "category": {
+        "name": "Funny"
+      },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-10-24T12:36:54.427Z",
+      "videoUrl": "https://memefon.s3.amazonaws.com/uploads/2022-10-24T05-13-39140Z-a8qMdwe_460sv.mp4",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    },
+    {
+      "_id": "634de5a86ec5600016e6fec5",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "Sempre funciona 😌",
+      "category": {
+        "name": "Random"
+      },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-10-17T23:30:48.741Z",
+      "imageUrl": "https://memefon.s3.amazonaws.com/uploads/2022-10-17T02-26-37968Z-D7C7B319-BC4C-4489-95F6-4C6156F6FC85.jpeg",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    },
+    {
+      "_id": "63489e90b788dd00160bdb12",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "BASED CAT",
+      "category": {
+        "name": "Funny"
+      },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-10-13T23:26:08.557Z",
+      "imageUrl": "https://memefon.s3.amazonaws.com/uploads/2022-10-13T00-22-44140Z-aMErz86_700b.jpeg",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    },
+    {
+      "_id": "6346dc82134d650016e15eee",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "Os bandidos tão evoluindo",
+      "category": {
+        "name": "Funny"
+      },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-10-12T15:25:54.521Z",
+      "imageUrl": "https://memefon.s3.amazonaws.com/uploads/2022-10-11T23-31-01201Z-Screen%20Shot%202022-10-12%20at%2010.png",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    },
+    {
+      "_id": "63436e548c995b00161210aa",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "Mas a burra é a atendente né ?",
+      "category": {
+        "name": "Random"
+      },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-10-10T00:59:00.046Z",
+      "imageUrl": "https://memefon.s3.amazonaws.com/uploads/2022-10-09T22-54-50415Z-Screen%20Shot%202022-10-09%20at%207.png",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    },
+    {
+      "_id": "633cd8d081bb27001648843a",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "Mejor disfarce ",
+      "category": {
+        "name": "Funny"
+      },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-10-05T01:07:28.325Z",
+      "imageUrl": "https://memefon.s3.amazonaws.com/uploads/2022-10-04T20-37-01319Z-D0E0FE19-4E85-4A51-9984-3452B9CFD415.jpeg",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    },
+    {
+      "_id": "6330465b541fba0016f9e473",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "It’s time",
+      "category": {
+        "name": "Computing"
+      },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-09-25T12:15:23.449Z",
+      "imageUrl": "https://memefon.s3.amazonaws.com/uploads/2022-09-24T16-55-44700Z-DBD6D6CF-4630-4C41-9711-8F53E979D9ED.webp",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    },
+    {
+      "_id": "632dc259cf6484001669f3da",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "Buenos tiempos",
+      "category": {
+        "name": "Funny"
+      },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-09-23T14:27:37.413Z",
+      "imageUrl": "https://memefon.s3.amazonaws.com/uploads/2022-09-22T16-25-25754Z-B5D6815D-0EF0-4FB3-93CA-24DD1C55B5CD.jpeg",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    },
+    {
+      "_id": "632c401d25cf670016f0eab8",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "I’m this old ",
+      "category": {
+        "name": "Computing"
+      },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-09-22T10:59:41.084Z",
+      "imageUrl": "https://memefon.s3.amazonaws.com/uploads/2022-09-21T16-04-53807Z-1C77CBB4-C38B-482E-9718-05E05A605950.jpeg",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    },
+    {
+      "_id": "63299e19140ec4001666fb0d",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "Buenas ",
+      "category": {
+        "name": "Funny"
+      },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-09-20T11:03:53.595Z",
+      "videoUrl": "https://memefon.s3.amazonaws.com/uploads/2022-09-19T15-22-04442Z-trim.mp4",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    },
+    {
+      "_id": "6328e820140ec4001666fb0c",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "También paso con Memefon 🤪",
+      "category": {
+        "name": "Computing"
+      },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-09-19T22:07:28.673Z",
+      "imageUrl": "https://memefon.s3.amazonaws.com/uploads/2022-09-19T15-22-04442Z-83BD277B-D2C5-4AEF-880F-E1356FE30C5D.jpeg",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    },
+    {
+      "_id": "632888ca54b32f00165dce67",
+      "likesCount": 0,
+      "commentsCount": 0,
+      "title": "No debería preguntar",
+      "category": {
+        "name": "Computing"
+      },
+      "user": {
+        "username": "hackerman",
+        "photo": "https://memefon.s3.amazonaws.com/uploads/2021-08-16T03-41-24031Z-nmpxfqthkvngtt8qmax5.octet-stream"
+      },
+      "createdAt": "2022-09-19T15:20:42.782Z",
+      "imageUrl": "https://memefon.s3.amazonaws.com/uploads/2022-09-18T15-14-32306Z-CC28088C-63CB-40A0-AC17-8556B37BA8D6.jpeg",
+      "likedByCurrentUser": 0,
+      "reportedByCurrentUser": 0
+    }
+  ]
+}
